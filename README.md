@@ -1,4 +1,3 @@
 # reactapp1
 
-First project
-First react
+The boxes, they speak to me...
